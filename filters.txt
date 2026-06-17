@@ -96,4 +96,5 @@
 
 ||liftoff.io^
 
-www.youtube.com##.toast-button.style-scope.yt-notification-action-renderer.paper-toast-open
+www.youtube.com##yt-notification-action-renderer
+www.youtube.com##tp-yt-paper-toast
