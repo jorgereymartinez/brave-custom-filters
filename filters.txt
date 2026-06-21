@@ -99,4 +99,6 @@
 www.youtube.com##yt-notification-action-renderer
 www.youtube.com##tp-yt-paper-toast
 
-facebook.com##div[role="dialog"]:has-text(No more stories found)
+facebook.com##div[role="dialog"]:has-text(No More Stories Found)
+facebook.com##div[role="dialog"]:has-text(Cannot find any more stories to display)
+facebook.com##div:has-text(/^Cannot find any more stories to display$/):xpath(ancestor::div[3])
