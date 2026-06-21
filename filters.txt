@@ -98,3 +98,5 @@
 
 www.youtube.com##yt-notification-action-renderer
 www.youtube.com##tp-yt-paper-toast
+
+facebook.com##div[role="dialog"]:has-text(No more stories found)
