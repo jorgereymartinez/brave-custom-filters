@@ -99,4 +99,4 @@
 www.youtube.com##yt-notification-action-renderer
 www.youtube.com##tp-yt-paper-toast
 
-facebook.com##div:has-text(/^Cannot find any more stories to display$/):upward(6)
+facebook.com##+js(trusted-click-element, div[role="dialog"]:has-text(Cannot find any more stories) div[role="button"])
