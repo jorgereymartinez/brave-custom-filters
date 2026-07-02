@@ -138,10 +138,13 @@
 ||outcome-ssp.supersonicads.com^
 
 ! =====================
-! modern Product Analytics
+! Modern Product Analytics
 ! =====================
 ||app.posthog.com
 ||eu.posthog.com
+||posthog.com^
+||rudderstack.com^
+||snowplowanalytics.com^
 ||us.i.posthog.com
 
 ! =====================
@@ -160,6 +163,7 @@
 ! Other Advertising / Analytics
 ! =====================
 ||2giga.link^
+||adjust.com^
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 ||api.vungle.com^
@@ -175,6 +179,7 @@
 ||greatis.com^
 ||ironSource.mobi^
 ||is.com^
+||juicyads.com^
 ||liftoff.io^
 ||mineralt.io^
 ||omny.fm^
