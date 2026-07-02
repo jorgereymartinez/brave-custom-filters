@@ -84,6 +84,7 @@
 ||admob.com^
 ||pagead2.googlesyndication.com^
 ||adservice.google.com^
+||tagmanager.google.com^
 
 ||s.youtube.com^
 ||redirector.googlevideo.com^
@@ -93,6 +94,7 @@
 ||analytics.query.yahoo.com^
 ||log.fc.yahoo.com^
 ||gemini.yahoo.com^
+||partnerads.ysm.yahoo.com^
 
 ||appmetrica.yandex.ru^
 ||adfstat.yandex.ru^
