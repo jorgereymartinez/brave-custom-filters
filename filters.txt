@@ -85,10 +85,23 @@
 ||grs.hicloud.com^
 
 ! =====================
+! Impact
+! =====================
+||api.impact.com^
+||impact.com^
+
+! =====================
 ! Index Exchange
 ! =====================
 ||cdn.indexexchange.com
 ||indexexchange.com
+
+! =====================
+! klaviyo
+! =====================
+||a.klaviyo.com^
+||klaviyo.com^
+||static.klaviyo.com^
 
 ! =====================
 ! LG
@@ -149,7 +162,6 @@
 ||2giga.link^
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
-||api.impact.com^
 ||api.vungle.com^
 ||app-measurement.com^
 ||bnc.lt^
@@ -169,9 +181,9 @@
 ||omnycontent.com^
 ||pangleglobal.com^
 ||podtrac.com^
+||prd.jwpltx.com^
 ||sc-analytics.appspot.com^
-||ssl.p.jwpcdn.com^
-||static.klaviyo.com^
+||smartclip.com^
 ||streamtheworld.com^
 ||tritondigital.com^
 ||vid.connatix.com^
