@@ -3,7 +3,6 @@
 ! Expires: 6 hours
 ! Homepage: https://github.com/jorgereymartinez/brave-custom-filters
 ! --- Your Custom Rules Start Here ---
-
 ! =====================
 ! Amazon
 ! =====================
@@ -80,8 +79,10 @@
 ! Meta / Facebook / Instagram
 ! =====================
 ||an.facebook.com^
+||graph.facebook.com^
 ||graph.instagram.com^
 ||i.instagram.com^
+||tr.facebook.com^
 
 ! =====================
 ! Microsoft / Bing
@@ -104,6 +105,13 @@
 ||outcome-ssp.supersonicads.com^
 
 ! =====================
+! modern Product Analytics
+! =====================
+||app.posthog.com
+||eu.posthog.com
+||us.i.posthog.com
+
+! =====================
 ! Oppo / Realme
 ! =====================
 ||adsfs.oppomobile.com^
@@ -119,14 +127,11 @@
 ! Other Advertising / Analytics
 ! =====================
 ||2giga.link^
-||adfstat.yandex.ru^
-||advertising.yandex.ru^
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 ||api.impact.com^
 ||api.vungle.com^
 ||app-measurement.com^
-||appmetrica.yandex.ru^
 ||bnc.lt^
 ||cdn.cookielaw.org^
 ||cdn.privacy-mgmt.com^
@@ -139,7 +144,6 @@
 ||ironSource.mobi^
 ||is.com^
 ||liftoff.io^
-||metrika.yandex.ru^
 ||mineralt.io^
 ||omny.fm^
 ||omnycontent.com^
@@ -159,9 +163,26 @@
 ||quantserve.com
 
 ! =====================
+! Quora
+! =====================
+||pixel.quora.com^
+||qevents.quora.com^
+
+! =====================
+! Reddit
+! =====================
+||d.reddit.com^
+
+! =====================
 ! Roku
 ! =====================
 ||ads.roku.com^
+
+! =====================
+! Skimlinks
+! =====================
+||go.skimresources.com^
+||s.skimresources.com^
 
 ! =====================
 ! TikTok
@@ -183,12 +204,40 @@
 ||webview.unityads.unity3d.com^
 
 ! =====================
+! Viglink / Sovrn
+! =====================
+||api.viglink.com^
+||cdn.viglink.com^
+||redirect.viglink.com^
+
+! =====================
+! VK
+! =====================
+||ads.vk.com^
+
+! =====================
+! X / Twitter
+! =====================
+||ads-api.x.com^
+||ads.x.com
+||analytics.twitter.com^
+||analytics.x.com^
+
+! =====================
 ! Xiaomi / Mi
 ! =====================
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||tracking.rus.miui.com^
+
+! =====================
+! Yandex
+! =====================
+||adfstat.yandex.ru^
+||advertising.yandex.ru^
+||appmetrica.yandex.ru^
+||metrika.yandex.ru^
 
 ! =====================
 ! Yahoo
