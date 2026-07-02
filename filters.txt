@@ -5,63 +5,76 @@
 ! --- Your Custom Rules Start Here ---
 
 ! =====================
-! Microsoft / Bing
+! Amazon
 ! =====================
-||ads.microsoft.com^
-||bingads.microsoft.com^
-||bat.bing.com^
-||c.bing.com^
-||browser.events.data.msn.com^
-||settings-win.data.microsoft.com^
-||vortex-win.data.microsoft.com^
-||watson.telemetry.microsoft.com^
+||advertising-api-eu.amazon.com^
+||device-metrics-us-2.amazon.com^
+||device-metrics-us.amazon.com^
+||mads-eu.amazon.com^
 
 ! =====================
-! Google / YouTube / DoubleClick
+! AppLovin
 ! =====================
-||doubleclick.net^
-||ad.doubleclick.net^
-||stats.g.doubleclick.net^
-||static.doubleclick.net^
-||m.doubleclick.net^
-||mediavisor.doubleclick.net^
-||pagead2.googlesyndication.com^
-||pagead2.googleadservices.com^
-||googleadservices.com^
-||afs.googlesyndication.com^
-||tpl.googlesyndication.com^
-||tpc.googlesyndication.com^
-||admob.google.com^
-||admob.com^
-||adservice.google.com^
-||tagmanager.google.com^
-||www-googleadssetting.l.google.com^
-||dai.google.com^
-||click.googleanalytics.com^
-||s.youtube.com^
-||redirector.googlevideo.com^
-||youtubei.googleapis.com^
+||applovin.com^
+||d.applovin.com^
+||ms.applovin.com^
+||rt.applovin.com^
 
 ! =====================
 ! Apple
 ! =====================
 ||advertising.apple.com^
-||iadsdk.apple.com^
 ||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||iadsdk.apple.com^
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
-||books-analytics-events.apple.com^
-||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
+||weather-analytics-events.apple.com^
 ||xp.apple.com^
 
 ! =====================
-! Amazon
+! Google / YouTube / DoubleClick
 ! =====================
-||advertising-api-eu.amazon.com^
-||device-metrics-us.amazon.com^
-||device-metrics-us-2.amazon.com^
-||mads-eu.amazon.com^
+||ad.doubleclick.net^
+||admob.com^
+||admob.google.com^
+||adservice.google.com^
+||afs.googlesyndication.com^
+||click.googleanalytics.com^
+||dai.google.com^
+||doubleclick.net^
+||googleadservices.com^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
+||pagead2.googlesyndication.com^
+||pagead2.googleadservices.com^
+||redirector.googlevideo.com^
+||s.youtube.com^
+||static.doubleclick.net^
+||stats.g.doubleclick.net^
+||tagmanager.google.com^
+||tpl.googlesyndication.com^
+||tpc.googlesyndication.com^
+||www-googleadssetting.l.google.com^
+||youtubei.googleapis.com^
+
+! =====================
+! Huawei
+! =====================
+||ads.huawei.com^
+||grs.hicloud.com^
+
+! =====================
+! Index Exchange
+! =====================
+||cdn.indexexchange.com
+||indexexchange.com
+
+! =====================
+! LG
+! =====================
+||ngfts.lge.com^
 
 ! =====================
 ! Meta / Facebook / Instagram
@@ -71,54 +84,79 @@
 ||i.instagram.com^
 
 ! =====================
-! Xiaomi / Mi
+! Microsoft / Bing
 ! =====================
-||data.mistat.xiaomi.com^
-||data.mistat.india.xiaomi.com^
-||data.mistat.rus.xiaomi.com^
-||tracking.rus.miui.com^
+||ads.microsoft.com^
+||bat.bing.com^
+||bingads.microsoft.com^
+||browser.events.data.msn.com^
+||c.bing.com^
+||settings-win.data.microsoft.com^
+||vortex-win.data.microsoft.com^
+||watson.telemetry.microsoft.com^
+
+! =====================
+! Mobile Ad Networks
+! =====================
+||api.fyber.com^
+||init.supersonicads.com^
+||live.chartboost.com^
+||outcome-ssp.supersonicads.com^
 
 ! =====================
 ! Oppo / Realme
 ! =====================
 ||adsfs.oppomobile.com^
 ||adx.ads.oppomobile.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
 ||ck.ads.oppomobile.com^
 ||data.ads.oppomobile.com^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
-||bdapi-ads.realmemobile.com^
-||bdapi-in-ads.realmemobile.com^
 
 ! =====================
-! Huawei
+! Other Advertising / Analytics
 ! =====================
-||ads.huawei.com^
-||grs.hicloud.com^
+||2giga.link^
+||adfstat.yandex.ru^
+||advertising.yandex.ru^
+||analytics.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||api.impact.com^
+||api.vungle.com^
+||app-measurement.com^
+||appmetrica.yandex.ru^
+||bnc.lt^
+||cdn.cookielaw.org^
+||cdn.privacy-mgmt.com^
+||clientstream.launchdarkly.com^
+||consent.trustarc.com^
+||fingerprintjs.com^
+||g.jwpsrv.com^
+||gemini.yahoo.com^
+||greatis.com^
+||ironSource.mobi^
+||is.com^
+||liftoff.io^
+||metrika.yandex.ru^
+||mineralt.io^
+||omny.fm^
+||omnycontent.com^
+||pangleglobal.com^
+||podtrac.com^
+||sc-analytics.appspot.com^
+||ssl.p.jwpcdn.com^
+||static.klaviyo.com^
+||streamtheworld.com^
+||tritondigital.com^
+||widgets.pinterest.com^
 
 ! =====================
-! Unity Ads
+! Quantcast
 ! =====================
-||auction.unityads.unity3d.com^
-||webview.unityads.unity3d.com^
-||config.unityads.unity3d.com^
-||adserver.unityads.unity3d.com^
-
-! =====================
-! TikTok
-! =====================
-||ads.tiktok.com^
-||ads-api.tiktok.com^
-||ads-sg.tiktok.com^
-||business-api.tiktok.com^
-||mon.tiktokv.com^
-||log.byteoversea.com^
-||mon.byteoversea.com^
-
-! =====================
-! LG
-! =====================
-||ngfts.lge.com^
+||pixel.quantserve.com
+||quantserve.com
 
 ! =====================
 ! Roku
@@ -126,48 +164,43 @@
 ||ads.roku.com^
 
 ! =====================
-! Other Advertising / Analytics
+! TikTok
 ! =====================
-||app-measurement.com^
-||clientstream.launchdarkly.com^
-||analytics.s3.amazonaws.com^
-||analyticsengine.s3.amazonaws.com^
-||tritondigital.com^
-||omny.fm^
-||omnycontent.com^
-||streamtheworld.com^
-||podtrac.com^
-||udcm.yahoo.com^
+||ads-api.tiktok.com^
+||ads-sg.tiktok.com^
+||ads.tiktok.com^
+||business-api.tiktok.com^
+||log.byteoversea.com^
+||mon.byteoversea.com^
+||mon.tiktokv.com^
+
+! =====================
+! Unity Ads
+! =====================
+||adserver.unityads.unity3d.com^
+||auction.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+
+! =====================
+! Xiaomi / Mi
+! =====================
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||data.mistat.xiaomi.com^
+||tracking.rus.miui.com^
+
+! =====================
+! Yahoo
+! =====================
+||advertising.yahoo.com^
 ||analytics.query.yahoo.com^
 ||log.fc.yahoo.com^
-||gemini.yahoo.com^
 ||partnerads.ysm.yahoo.com^
-||advertising.yandex.ru^
-||appmetrica.yandex.ru^
-||adfstat.yandex.ru^
-||metrika.yandex.ru^
-||ironSource.mobi^
-||fingerprintjs.com^
-||bnc.lt^
-||mineralt.io^
-||2giga.link^
-||greatis.com^
-||g.jwpsrv.com^
-||ssl.p.jwpcdn.com^
-||cdn.cookielaw.org^
-||consent.trustarc.com^
-||cdn.privacy-mgmt.com^
-||widgets.pinterest.com^
-||api.impact.com^
-||api.vungle.com^
-||liftoff.io^
-||is.com^
-||pangleglobal.com^
-||sc-analytics.appspot.com^
-||static.klaviyo.com^
+||udcm.yahoo.com^
 
 ! =====================
 ! Element Hiding Rules
 ! =====================
-www.youtube.com##yt-notification-action-renderer
 www.youtube.com##tp-yt-paper-toast
+www.youtube.com##yt-notification-action-renderer
