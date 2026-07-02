@@ -10,8 +10,11 @@
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
 
+||browser.events.data.msn.com^
+
 ||bingads.microsoft.com^
 
+||c.bing.com^
 ||bat.bing.com^
 ||ads.microsoft.com^
 ||bingads.microsoft.com^
@@ -39,6 +42,7 @@
 
 ||click.googleanalytics.com^
 
+||advertising.apple.com^
 ||iadsdk.apple.com^
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
@@ -97,6 +101,7 @@
 ||gemini.yahoo.com^
 ||partnerads.ysm.yahoo.com^
 
+||advertising.yandex.ru^
 ||appmetrica.yandex.ru^
 ||adfstat.yandex.ru^
 ||metrika.yandex.ru^
@@ -117,9 +122,12 @@
 
 ||ngfts.lge.com^
 
+||advertising-api-eu.amazon.com^
 ||device-metrics-us.amazon.com^
 ||device-metrics-us-2.amazon.com^
 ||mads-eu.amazon.com^
+
+||mon.tiktokv.com^
 
 ||ads.roku.com^
 
@@ -130,11 +138,15 @@
 ||consent.trustarc.com^
 ||cdn.privacy-mgmt.com^
 
+||widgets.pinterest.com^
+
 ||api.impact.com^
 
 ||api.vungle.com^
 
 ||liftoff.io^
+
+||is.com^
 
 ||pangleglobal.com^
 
