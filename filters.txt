@@ -12,6 +12,11 @@
 ||st.dynamicyield.com^
 
 ! =====================
+! Adjust
+! =====================
+||adjust.com^
+
+! =====================
 ! Amazon
 ! =====================
 ||advertising-api-eu.amazon.com^
@@ -68,8 +73,10 @@
 ||mediavisor.doubleclick.net^
 ||pagead2.googlesyndication.com^
 ||pagead2.googleadservices.com^
+||pubads.g.doubleclick.net^
 ||redirector.googlevideo.com^
 ||s.youtube.com^
+||securepubads.g.doubleclick.net^
 ||static.doubleclick.net^
 ||stats.g.doubleclick.net^
 ||tagmanager.google.com^
@@ -95,6 +102,11 @@
 ! =====================
 ||cdn.indexexchange.com
 ||indexexchange.com
+
+! =====================
+! JuicyAds
+! =====================
+||juicyads.com^
 
 ! =====================
 ! klaviyo
@@ -163,7 +175,6 @@
 ! Other Advertising / Analytics
 ! =====================
 ||2giga.link^
-||adjust.com^
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 ||api.vungle.com^
@@ -179,7 +190,6 @@
 ||greatis.com^
 ||ironSource.mobi^
 ||is.com^
-||juicyads.com^
 ||liftoff.io^
 ||mineralt.io^
 ||omny.fm^
@@ -221,6 +231,11 @@
 ! =====================
 ||go.skimresources.com^
 ||s.skimresources.com^
+
+! =====================
+! Smartclip
+! =====================
+||smartclip.com^
 
 ! =====================
 ! TikTok
