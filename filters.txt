@@ -70,6 +70,10 @@
 ||log.fc.yahoo.com^
 ||gemini.yahoo.com^
 
+||appmetrica.yandex.ru^
+||adfstat.yandex.ru^
+||metrika.yandex.ru^
+
 ||ironSource.mobi^
 
 ||fingerprintjs.com^
