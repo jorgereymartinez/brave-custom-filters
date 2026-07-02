@@ -13,11 +13,12 @@
 ||bingads.microsoft.com^
 
 ||bat.bing.com^
+||ads.microsoft.com^
 ||bingads.microsoft.com^
 ||bingads.microsoft.com^
-||settings-win.data.microsoft.com
-||vortex-win.data.microsoft.com
-||watson.telemetry.microsoft.co
+||settings-win.data.microsoft.com^
+||vortex-win.data.microsoft.com^
+||watson.telemetry.microsoft.com^
 
 ||doubleclick.net^
 ||stats.g.doubleclick.net^
@@ -129,7 +130,7 @@
 ||consent.trustarc.com^
 ||cdn.privacy-mgmt.com^
 
-||api.vungle.com^
+||vungle.com^
 ||api.vungle.com^
 
 ||liftoff.io^
