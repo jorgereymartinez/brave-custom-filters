@@ -65,6 +65,11 @@
 ||redirector.googlevideo.com^
 ||youtubei.googleapis.com^
 
+||udcm.yahoo.com^
+||analytics.query.yahoo.com^
+||log.fc.yahoo.com^
+||gemini.yahoo.com^
+
 ||ironSource.mobi^
 
 ||fingerprintjs.com^
