@@ -107,6 +107,8 @@
 ! TikTok
 ! =====================
 ||mon.tiktokv.com^
+||log.byteoversea.com^
+||mon.byteoversea.com^
 
 ! =====================
 ! LG
@@ -156,6 +158,7 @@
 ||liftoff.io^
 ||is.com^
 ||pangleglobal.com^
+||sc-analytics.appspot.com^
 ||static.klaviyo.com^
 
 ! =====================
