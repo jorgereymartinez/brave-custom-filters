@@ -8,6 +8,12 @@
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
 
+||bingads.microsoft.com^
+
+||bat.bing.com^
+||bingads.microsoft.com^
+||bingads.microsoft.com^
+
 ||doubleclick.net^
 ||stats.g.doubleclick.net^
 ||ad.doubleclick.net^
@@ -110,7 +116,12 @@
 ||consent.trustarc.com^
 ||cdn.privacy-mgmt.com^
 
+||api.vungle.com^
+||api.vungle.com^
+
 ||liftoff.io^
+
+||pangleglobal.com^
 
 www.youtube.com##yt-notification-action-renderer
 www.youtube.com##tp-yt-paper-toast
