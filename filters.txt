@@ -4,6 +4,14 @@
 ! Homepage: https://github.com/jorgereymartinez/brave-custom-filters
 ! --- Your Custom Rules Start Here ---
 ! =====================
+! A/B Testing
+! =====================
+||api.optimizely.com^
+||cdn.dynamicyield.com^
+||cdn.optimizely.com^
+||st.dynamicyield.com^
+
+! =====================
 ! Amazon
 ! =====================
 ||advertising-api-eu.amazon.com^
@@ -33,6 +41,17 @@
 ||xp.apple.com^
 
 ! =====================
+! Email Marketing
+! =====================
+||click.mailchimp.com^
+
+! =====================
+! FreeWheel / Comcast
+! =====================
+||2975c.v.fwmrm.net^
+||bea4.v.fwmrm.net^
+
+! =====================
 ! Google / YouTube / DoubleClick
 ! =====================
 ||ad.doubleclick.net^
@@ -43,6 +62,7 @@
 ||click.googleanalytics.com^
 ||dai.google.com^
 ||doubleclick.net^
+||googleads.g.doubleclick.net^
 ||googleadservices.com^
 ||m.doubleclick.net^
 ||mediavisor.doubleclick.net^
@@ -154,6 +174,7 @@
 ||static.klaviyo.com^
 ||streamtheworld.com^
 ||tritondigital.com^
+||vid.connatix.com^
 ||widgets.pinterest.com^
 
 ! =====================
@@ -202,6 +223,12 @@
 ||auction.unityads.unity3d.com^
 ||config.unityads.unity3d.com^
 ||webview.unityads.unity3d.com^
+
+! =====================
+! VAST / VPAID
+! =====================
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
 
 ! =====================
 ! Viglink / Sovrn
