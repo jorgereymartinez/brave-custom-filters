@@ -2,153 +2,164 @@
 ! Title: Stricter Custom Brave Filters
 ! Expires: 6 hours
 ! Homepage: https://github.com/jorgereymartinez/brave-custom-filters
-
 ! --- Your Custom Rules Start Here ---
 
-||app-measurement.com^
-
-||analyticsengine.s3.amazonaws.com^
-||analytics.s3.amazonaws.com^
-
-||browser.events.data.msn.com^
-
-||bingads.microsoft.com^
-
-||c.bing.com^
-||bat.bing.com^
+! =====================
+! Microsoft / Bing
+! =====================
 ||ads.microsoft.com^
 ||bingads.microsoft.com^
-||bingads.microsoft.com^
+||bat.bing.com^
+||c.bing.com^
+||browser.events.data.msn.com^
 ||settings-win.data.microsoft.com^
 ||vortex-win.data.microsoft.com^
 ||watson.telemetry.microsoft.com^
 
+! =====================
+! Google / YouTube / DoubleClick
+! =====================
 ||doubleclick.net^
-||stats.g.doubleclick.net^
 ||ad.doubleclick.net^
+||stats.g.doubleclick.net^
 ||static.doubleclick.net^
 ||m.doubleclick.net^
 ||mediavisor.doubleclick.net^
-
 ||pagead2.googlesyndication.com^
 ||pagead2.googleadservices.com^
 ||googleadservices.com^
 ||afs.googlesyndication.com^
 ||tpl.googlesyndication.com^
+||tpc.googlesyndication.com^
 ||admob.google.com^
+||admob.com^
+||adservice.google.com^
+||tagmanager.google.com^
 ||www-googleadssetting.l.google.com^
 ||dai.google.com^
-||tpc.googlesyndication.com^
-
 ||click.googleanalytics.com^
+||s.youtube.com^
+||redirector.googlevideo.com^
+||youtubei.googleapis.com^
 
+! =====================
+! Apple
+! =====================
 ||advertising.apple.com^
 ||iadsdk.apple.com^
+||api-adservices.apple.com^
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
-||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
 ||xp.apple.com^
 
-||graph.instagram.com^
-||i.instagram.com^
-
-||sc-analytics.appspot.com^
-
-||log.byteoversea.com^
-||mon.byteoversea.com^
-
-||auction.unityads.unity3d.com^
-||webview.unityads.unity3d.com^
-||config.unityads.unity3d.com^
-||adserver.unityads.unity3d.com^
-
-||iot-eu-logser.realme.com^
-||iot-logser.realme.com^
-||bdapi-ads.realmemobile.com^
-||bdapi-in-ads.realmemobile.com^
-
-||data.mistat.xiaomi.com^
-||data.mistat.india.xiaomi.com^
-||data.mistat.rus.xiaomi.com^
-
-||adsfs.oppomobile.com^
-||adx.ads.oppomobile.com^
-||ck.ads.oppomobile.com^
-||data.ads.oppomobile.com^
-||tracking.rus.miui.com^
-
-||tritondigital.com^
-||omny.fm^
-||omnycontent.com^
-||streamtheworld.com^
-||podtrac.com^
-
-||admob.com^
-||pagead2.googlesyndication.com^
-||adservice.google.com^
-||tagmanager.google.com^
-
-||s.youtube.com^
-||redirector.googlevideo.com^
-||youtubei.googleapis.com^
-
-||udcm.yahoo.com^
-||analytics.query.yahoo.com^
-||log.fc.yahoo.com^
-||gemini.yahoo.com^
-||partnerads.ysm.yahoo.com^
-
-||advertising.yandex.ru^
-||appmetrica.yandex.ru^
-||adfstat.yandex.ru^
-||metrika.yandex.ru^
-
-||ironSource.mobi^
-
-||fingerprintjs.com^
-
-||bnc.lt^
-
-||mineralt.io^
-
-||2giga.link^
-||greatis.com^
-
-||ads.huawei.com^
-||grs.hicloud.com^
-
-||ngfts.lge.com^
-
+! =====================
+! Amazon
+! =====================
 ||advertising-api-eu.amazon.com^
 ||device-metrics-us.amazon.com^
 ||device-metrics-us-2.amazon.com^
 ||mads-eu.amazon.com^
 
+! =====================
+! Meta / Instagram
+! =====================
+||graph.instagram.com^
+||i.instagram.com^
+
+! =====================
+! Xiaomi / Mi
+! =====================
+||data.mistat.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||tracking.rus.miui.com^
+
+! =====================
+! Oppo / Realme
+! =====================
+||adsfs.oppomobile.com^
+||adx.ads.oppomobile.com^
+||ck.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+||iot-eu-logser.realme.com^
+||iot-logser.realme.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+
+! =====================
+! Huawei
+! =====================
+||ads.huawei.com^
+||grs.hicloud.com^
+
+! =====================
+! Unity Ads
+! =====================
+||auction.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+
+! =====================
+! TikTok
+! =====================
 ||mon.tiktokv.com^
 
+! =====================
+! LG
+! =====================
+||ngfts.lge.com^
+
+! =====================
+! Roku
+! =====================
 ||ads.roku.com^
 
+! =====================
+! Other Advertising / Analytics
+! =====================
+||app-measurement.com^
+||clientstream.launchdarkly.com^
+||analytics.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||tritondigital.com^
+||omny.fm^
+||omnycontent.com^
+||streamtheworld.com^
+||podtrac.com^
+||udcm.yahoo.com^
+||analytics.query.yahoo.com^
+||log.fc.yahoo.com^
+||gemini.yahoo.com^
+||partnerads.ysm.yahoo.com^
+||advertising.yandex.ru^
+||appmetrica.yandex.ru^
+||adfstat.yandex.ru^
+||metrika.yandex.ru^
+||ironSource.mobi^
+||fingerprintjs.com^
+||bnc.lt^
+||mineralt.io^
+||2giga.link^
+||greatis.com^
 ||g.jwpsrv.com^
 ||ssl.p.jwpcdn.com^
-
 ||cdn.cookielaw.org^
 ||consent.trustarc.com^
 ||cdn.privacy-mgmt.com^
-
 ||widgets.pinterest.com^
-
 ||api.impact.com^
-
 ||api.vungle.com^
-
 ||liftoff.io^
-
 ||is.com^
-
 ||pangleglobal.com^
+||static.klaviyo.com^
 
+! =====================
+! Element Hiding Rules
+! =====================
 www.youtube.com##yt-notification-action-renderer
 www.youtube.com##tp-yt-paper-toast
