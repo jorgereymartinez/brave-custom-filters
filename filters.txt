@@ -130,7 +130,8 @@
 ||consent.trustarc.com^
 ||cdn.privacy-mgmt.com^
 
-||vungle.com^
+||api.impact.com^
+
 ||api.vungle.com^
 
 ||liftoff.io^
