@@ -20,6 +20,8 @@
 ||dai.google.com^
 ||tpc.googlesyndication.com^
 
+||click.googleanalytics.com^
+
 ||iadsdk.apple.com^
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
