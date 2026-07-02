@@ -1,9 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: Stricter Custom Brave Filters
-! Expires: 12 hours
+! Expires: 6 hours
 ! Homepage: https://github.com/jorgereymartinez/brave-custom-filters
 
 ! --- Your Custom Rules Start Here ---
+
+||app-measurement.com^
 
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
@@ -13,6 +15,9 @@
 ||bat.bing.com^
 ||bingads.microsoft.com^
 ||bingads.microsoft.com^
+||settings-win.data.microsoft.com
+||vortex-win.data.microsoft.com
+||watson.telemetry.microsoft.co
 
 ||doubleclick.net^
 ||stats.g.doubleclick.net^
@@ -42,7 +47,13 @@
 ||notes-analytics-events.apple.com^
 ||xp.apple.com^
 
+||graph.instagram.com^
+||i.instagram.com^
+
+||sc-analytics.appspot.com^
+
 ||log.byteoversea.com^
+||mon.byteoversea.com^
 
 ||auction.unityads.unity3d.com^
 ||webview.unityads.unity3d.com^
